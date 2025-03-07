@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|c:\\users\\gusta\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|c:\\users\\gusta\\source\\repos\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|c:\\users\\gusta\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|c:\\users\\gusta\\source\\repos\\screensound\\screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0201A2-2DE4-47F5-B8E1-59B7CD4C66F9}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +26,39 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Banda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banda.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Banda.cs",
+              "RelativeToolTip": "ScreenSound\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:17:49.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T15:30:40.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T15:23:31.243Z",
               "EditorCaption": ""
